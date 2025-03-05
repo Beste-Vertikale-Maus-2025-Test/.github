@@ -29,7 +29,7 @@ Die **Logitech MX Vertical** bietet ein außergewöhnliches ergonomisches Design
 
 **Perfekt für:** Vielschreiber, kreative Profis, Entwickler und alle, die auf eine präzise Maus angewiesen sind.
 
-[Kaufe die Logitech MX Vertical und erhalte einen exklusiven Rabatt!](#)
+[Kaufe die Logitech MX Vertical und erhalte einen exklusiven Rabatt!](https://amzn.to/3XsqtKm)
 
 ---
 
@@ -44,7 +44,7 @@ Die **Anker 2.4G Vertikale Maus** ist eine großartige Budget-Option, die dennoc
 
 **Perfekt für:** Studenten, Büroangestellte und alle, die eine kostengünstige, aber effektive Maus benötigen.
 
-[Kaufe die Anker 2.4G Vertikale Maus und spare 15%!](#)
+[Kaufe die Anker 2.4G Vertikale Maus und spare 15%!](https://amzn.to/3F6V0XC)
 
 ---
 
@@ -59,7 +59,7 @@ Die **Evoluent VerticalMouse 4** bietet eine der besten ergonomischen Designs un
 
 **Perfekt für:** Designer, Entwickler und Vielschreiber, die eine sehr präzise Steuerung benötigen.
 
-[Kaufe die Evoluent VerticalMouse 4 und profitiere von kostenlosem Versand!](#)
+[Kaufe die Evoluent VerticalMouse 4 und profitiere von kostenlosem Versand!](https://amzn.to/4i6sjIQ)
 
 ---
 
@@ -91,12 +91,4 @@ Eine vertikale Maus ist eine spezielle Maus, die dafür sorgt, dass deine Hand i
 Zu Beginn kann es ein wenig ungewohnt sein, aber nach einer kurzen Eingewöhnungszeit bieten vertikale Mäuse eine sehr komfortable Handhabung und verbessern den Arbeitskomfort.
 
 ### Welche vertikale Maus eignet sich am besten für Programmierer?
-Für Programmierer empfehlen wir die **Logitech MX Vertical** oder die **Evoluent VerticalMouse 4**, da diese besonders präzise sind und eine sehr angenehme Ergonomie bieten.
-
----
-
-## Weitere Informationen
-
-- **Repository:** [GitHub Repo für vertikale Mäuse](https://github.com/dein-repository-link)
-- **Zuletzt aktualisiert:** März 2025
-- **Lizenz:** MIT License
+Für Programmierer empfehlen wir die [**Logitech MX Vertical**](https://amzn.to/3XsqtKm) oder die [**Evoluent VerticalMouse 4**](https://amzn.to/4i6sjIQ), da diese besonders präzise sind und eine sehr angenehme Ergonomie bieten.
